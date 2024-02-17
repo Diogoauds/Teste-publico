@@ -10,3 +10,9 @@ Atualmente curso o ensino médio, já aproveitando também faço um curso técni
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
+
+### Objetivos
+
+Desenvolvimento full-stack;
+Desenvolvimento de aplicativos;
+Cybersecurity.
