@@ -1,6 +1,6 @@
 # Olá me chamo Diogo!
 
-Atualmente curso o ensino médio, já aproveitando também faço um curso técnico em informática.
+** Atualmente curso o ensino médio, já aproveitando também faço um curso técnico em informática. **
 Gosto muito de aprender e desenvolver meu conhecimento na área, se quiser me ajudar confere a aba social, ficarei muito grato.
 
 ## Habilidades
@@ -17,3 +17,5 @@ Gosto muito de aprender e desenvolver meu conhecimento na área, se quiser me aj
 * Desenvolvimento full-stack;
 * Desenvolvimento de aplicativos;
 * Cybersecurity.
+
+#
