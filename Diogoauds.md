@@ -22,6 +22,6 @@ Gosto muito de aprender e desenvolver meu conhecimento na área, se quiser me aj
 ## Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/diogo_agsilva/)
-![Discord](https://img.shields.io/discord/775121628240543765)
+![Discord](https://img.shields.io/discord/1208456783111131166)
 
 
