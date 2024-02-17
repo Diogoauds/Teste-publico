@@ -2,11 +2,7 @@
 
 Atualmente curso o ensino médio, já aproveitando também faço um curso técnico em informática.
 
-## Contato
-
-[![E-mail : diogosilvaaugust13@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](diogosilvaaugusto13@gmail.com)
-
-### Habilidades
+## Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
