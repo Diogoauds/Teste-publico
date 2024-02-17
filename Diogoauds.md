@@ -13,6 +13,6 @@ Atualmente curso o ensino médio, já aproveitando também faço um curso técni
 
 ### Objetivos
 
-Desenvolvimento full-stack;
-Desenvolvimento de aplicativos;
+Desenvolvimento full-stack;[br]
+Desenvolvimento de aplicativos;[br]
 Cybersecurity.
